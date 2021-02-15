@@ -1,7 +1,8 @@
-Resources required to run the project -
+# Resources required to run the project -
 node.js, npm, sqlite (preferred), flask, flask-sqlalchemy
 
-# start the server by migrating inside the api folder and running 
+# start the server 
+Migratine inside the api folder and running 
 
 ### `flask run`
 
@@ -11,8 +12,8 @@ Go into the frappe-ui folder and run
 
 ### `npm start`
 
-#screenshots
-
+# screenshots
+(https://github.com/pythonidae-lupus/frappeTest/blob/main/screenshot/s1.png?raw=true)
 
 
 ### `npm start`
