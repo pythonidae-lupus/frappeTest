@@ -14,6 +14,8 @@ Go into the frappe-ui folder and run
 
 # screenshots
 (https://github.com/pythonidae-lupus/frappeTest/blob/main/screenshot/s1.png?raw=true)
+(https://github.com/pythonidae-lupus/frappeTest/blob/main/screenshot/s2.png?raw=true)
+(https://github.com/pythonidae-lupus/frappeTest/blob/main/screenshot/s3.png?raw=true)
 
 
 ### `npm start`
