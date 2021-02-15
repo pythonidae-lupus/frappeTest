@@ -1,10 +1,19 @@
-# Getting Started with Create React App
+Resources required to run the project -
+node.js, npm, sqlite (preferred), flask, flask-sqlalchemy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# start the server by migrating inside the api folder and running 
 
-## Available Scripts
+### `flask run`
 
-In the project directory, you can run:
+# start the UI
+
+Go into the frappe-ui folder and run
+
+### `npm start`
+
+#screenshots
+
+
 
 ### `npm start`
 

@@ -1,0 +1,46 @@
+GET http://127.0.0.1:5000/products
+
+###
+POST http://127.0.0.1:5000/products
+content-type: application/json
+
+{
+    "pid":"ijnjbhvgiut",
+    "name":"camera"
+}
+
+###
+PUT http://127.0.0.1:5000/products
+
+###
+GET http://127.0.0.1:5000/locations
+
+###
+POST http://127.0.0.1:5000/locations
+content-type: application/json
+
+{
+    "lid":"jniurnfu",
+    "name": "D"
+}
+
+###
+PUT http://127.0.0.1:5000/locations
+
+###
+GET http://127.0.0.1:5000/product-movement
+
+###
+POST http://127.0.0.1:5000/product-movement
+content-type: application/json
+
+{
+    "mid":"iusfuvn",
+    "from_location": null,
+    "to_location": "jniurnfu",
+    "pid": "ahburghih",
+    "qty": "10"
+}
+
+###
+PUT http://127.0.0.1:5000/product-movement
